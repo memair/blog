@@ -1,0 +1,71 @@
+# Site
+name: "Memair Blog"
+title: "Memair Blog"
+description: "Quantified self, extended cognition, & other human data"
+logo: 'assets/images/header_icon.png'
+favicon: 'assets/images/favicon.ico'
+google_analytics: 'UA-28725137-5'
+disqus: 'memair'
+mailchimp-list: 'https://memair.us20.list-manage.com/subscribe/post?u=47711ef9c799c8225e3a1b8b3&amp;id=9b2680e915'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  memair:
+    name: Memair
+    display_name: memair    
+    avatar: 'assets/images/memair.png'
+    email: info@memair.com
+    web: https://memair.com
+    twitter: https://twitter.com/memairapp
+    description: "Quantified Self Platform"
+  greg:
+    name: Greg Clarke
+    display_name: Greg
+    avatar: 'assets/images/greg.jpg'
+    email: greg@memair.com
+    web: https://gregology.net
+    twitter: https://twitter.com/gregologynet
+    description: "CEO & Founder of Memair. Data developer by trade."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-redirect-from
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+#adsense-data-ad-client: "ca-pub-3412143450191416"
+#adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
+
+exclude: [LICENSE.txt, README.md, Gemfile, Gemfile.lock]
