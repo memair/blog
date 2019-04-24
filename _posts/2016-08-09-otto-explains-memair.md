@@ -4,7 +4,7 @@ title:  "Otto explains Memair"
 author: memair
 categories: [ Quantified Self, Video ]
 tags: [ App, Otto, Quantified Self, video ]
-image: /assets/images/2016/08/otto.png
+image: /assets/images/2016/08/Otto.png
 description: "Otto explains Memair and Quantified Self"
 featured: false
 hidden: false
