@@ -10,7 +10,8 @@ featured: true
 hidden: false
 ---
 
-Deep work refers to studying for focused chunks of time without distractions such as email and social media. The term was coined by <a href="http://www.calnewport.com/" target="_blank">Cal Newport</a> and he wrote a <a href="http://www.calnewport.com/books/deep-work/" target="_blank">book</a> on the subject. Cal makes the interesting point that the cost of media usage is difficult to measure.
+
+"Deep work" refers to large periods of time without distractions from things like social media and email. The term was coined by <a href="http://www.calnewport.com/" target="_blank">Cal Newport</a> and he wrote a <a href="http://www.calnewport.com/books/deep-work/" target="_blank">book</a> on the subject. Cal makes the interesting point that the cost of media usage is difficult to measure.
 
 > Deep work is at a severe disadvantage in a technopoly because it builds on values like quality, craftsmanship, and mastery that are decidedly old-fashioned and nontechnological. Even worse, to support deep work often requires the rejection of much of what is new and high-tech. Deep work is exiled in favour of more distracting high-tech behaviours like the professional use of social media, not because the former is empirically inferior to the latter. Indeed, if we had hard metrics relating the impact of these behaviours on bottom line, our current technopoly would likely crumble.
 
