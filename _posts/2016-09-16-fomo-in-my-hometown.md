@@ -6,7 +6,7 @@ categories: [ Quantified Self ]
 tags: [ App, Otto, Quantified Self ]
 image: /assets/images/2016/09/fomo-map.png
 description: "Where haven't I explored lately?"
-featured: true
+featured: false
 hidden: false
 ---
 
