@@ -4,7 +4,7 @@ title:  "Memair DNS"
 author: memair
 categories: [ Quantified Self, Experiments ]
 tags: [ Experiments, Quantified Self ]
-image: /assets/images/2019/04/iphone-social-media.jpg
+image: /assets/images/2019/04/foo.jpg
 description: "Pseudorandomly block social media on 50% of days. Blocking occurs at the DNS level, affecting both social media websites & their apps."
 featured: true
 hidden: false
