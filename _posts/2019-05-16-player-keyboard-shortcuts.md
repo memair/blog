@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-Memair Player now respects keyboard shortcuts. No more useless half page scroll when you try to pause a video.
+[Memair Player](https://memair.com/player) now respects keyboard shortcuts. No more useless half page scroll when you try to pause a video.
 
 | Key        | Action                                 |
 | ---------- | -------------------------------------- |
