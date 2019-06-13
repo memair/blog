@@ -3,7 +3,7 @@ name: "Memair Blog"
 title: "Memair Blog"
 description: "Quantified self, extended cognition, & other human data"
 logo: 'assets/images/header_icon.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'favicon.ico'
 google_analytics: 'UA-28725137-5'
 disqus: 'memair'
 mailchimp-list: 'https://memair.us20.list-manage.com/subscribe/post?u=47711ef9c799c8225e3a1b8b3&amp;id=9b2680e915'
@@ -14,7 +14,7 @@ permalink: /:title/
 authors:
   memair:
     name: Memair
-    display_name: memair    
+    display_name: memair
     avatar: 'assets/images/memair.png'
     email: info@memair.com
     web: https://memair.com
@@ -37,7 +37,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-redirect-from
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -45,11 +45,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 
